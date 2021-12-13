@@ -1,0 +1,38 @@
+[
+  {
+    "Nombre": "Juan",
+    "Apellido": "Sueldo",
+    "IdEntrenador": 1,
+    "Edad": 32,
+    "Genero": "Masculino",
+    "Pokemons": [],
+    "Cantidad": 6
+  },
+  {
+    "Nombre": "Natalia",
+    "Apellido": "Fernandez",
+    "IdEntrenador": 2,
+    "Edad": 25,
+    "Genero": "Femenino",
+    "Pokemons": [],
+    "Cantidad": 6
+  },
+  {
+    "Nombre": "Ash",
+    "Apellido": "Ketchup",
+    "IdEntrenador": 3,
+    "Edad": 10,
+    "Genero": "Masculino",
+    "Pokemons": [],
+    "Cantidad": 6
+  },
+  {
+    "Nombre": "Maximo",
+    "Apellido": "Cosetti",
+    "IdEntrenador": 4,
+    "Edad": 28,
+    "Genero": "Masculino",
+    "Pokemons": [],
+    "Cantidad": 6
+  }
+]

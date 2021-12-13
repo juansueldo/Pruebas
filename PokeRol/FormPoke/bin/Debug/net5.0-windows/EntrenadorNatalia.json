@@ -1,0 +1,25 @@
+{
+  "Nombre": "Natalia",
+  "Apellido": "Fernandez",
+  "IdEntrenador": 2,
+  "Edad": 25,
+  "Genero": "Femenino",
+  "Pokemons": [
+    {
+      "Tipo": "Agua",
+      "Nombre": "Blastoise",
+      "IdPokemon": 9
+    },
+    {
+      "Tipo": "Fuego",
+      "Nombre": "Charmeleon",
+      "IdPokemon": 5
+    },
+    {
+      "Tipo": "Planta",
+      "Nombre": "Bulbasaur",
+      "IdPokemon": 1
+    }
+  ],
+  "Cantidad": 6
+}

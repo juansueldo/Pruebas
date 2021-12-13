@@ -1,0 +1,16 @@
+{
+  "Nombre": "Juan",
+  "Apellido": "Sueldo",
+  "IdEntrenador": 1,
+  "Edad": 32,
+  "Genero": "Masculino",
+  "Pokemons": [
+    {
+      "IdPokemon": 1,
+      "Nombre": "Bulbasaur",
+      "Tipo": "Planta",
+      "SubTipo": "Ninguno"
+    }
+  ],
+  "Cantidad": 6
+}

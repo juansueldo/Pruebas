@@ -1,0 +1,141 @@
+[
+  {
+    "IdPokemon": 1,
+    "Nombre": "Bulbasaur",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 2,
+    "Nombre": "Ivysaur",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 4,
+    "Nombre": "Charmander",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 5,
+    "Nombre": "Charmeleon",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 6,
+    "Nombre": "Charizard",
+    "Tipo": "Fuego",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 7,
+    "Nombre": "Squirtle",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 8,
+    "Nombre": "Wartortle",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 9,
+    "Nombre": "Blastoise",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 10,
+    "Nombre": "Caterpie",
+    "Tipo": "Bicho",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 11,
+    "Nombre": "Metapod",
+    "Tipo": "Bicho",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 12,
+    "Nombre": "Butterfree",
+    "Tipo": "Bicho",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 13,
+    "Nombre": "Weedle",
+    "Tipo": "Bicho",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 14,
+    "Nombre": "Kakuna",
+    "Tipo": "Bicho",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 15,
+    "Nombre": "Beedrill",
+    "Tipo": "Bicho",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 16,
+    "Nombre": "Pidgey",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 17,
+    "Nombre": "Pidgeotto",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 18,
+    "Nombre": "Pidgeot",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 19,
+    "Nombre": "Rattata",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 20,
+    "Nombre": "Raticate",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 21,
+    "Nombre": "Spearow",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 22,
+    "Nombre": "Fearow",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 23,
+    "Nombre": "Ekans",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 24,
+    "Nombre": "Arbok",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  }
+
+]

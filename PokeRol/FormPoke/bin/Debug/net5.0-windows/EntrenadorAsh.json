@@ -1,0 +1,15 @@
+{
+  "Nombre": "Ash",
+  "Apellido": "Ketchup",
+  "IdEntrenador": 3,
+  "Edad": 10,
+  "Genero": "Masculino",
+  "Pokemons": [
+    {
+      "Tipo": "Planta",
+      "Nombre": "Bulbasaur",
+      "IdPokemon": 1
+    }
+  ],
+  "Cantidad": 6
+}
