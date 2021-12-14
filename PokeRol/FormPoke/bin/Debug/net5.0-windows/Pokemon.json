@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "IdPokemon": 1,
     "Nombre": "Bulbasaur",
@@ -135,6 +135,768 @@
     "IdPokemon": 24,
     "Nombre": "Arbok",
     "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 25,
+    "Nombre": "Pikachu",
+    "Tipo": "Electrico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 26,
+    "Nombre": "Raichu",
+    "Tipo": "Electrico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 27,
+    "Nombre": "Sandshrew",
+    "Tipo": "Tierra",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 27,
+    "Nombre": "Sandslash",
+    "Tipo": "Tierra",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 29,
+    "Nombre": "Nidoran♀",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 30,
+    "Nombre": "Nidorina",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 31,
+    "Nombre": "Nidoqueen",
+    "Tipo": "Veneno",
+    "SubTipo": "Tierra"
+  },
+  {
+    "IdPokemon": 32,
+    "Nombre": "Nidoran♂",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 33,
+    "Nombre": "Nidorino",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 34,
+    "Nombre": "Nidoking",
+    "Tipo": "Veneno",
+    "SubTipo": "Tierra"
+  },
+  {
+    "IdPokemon": 35,
+    "Nombre": "Cleafairy",
+    "Tipo": "Hada",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 36,
+    "Nombre": "Cleafable",
+    "Tipo": "Hada",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 37,
+    "Nombre": "Vulpix",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 38,
+    "Nombre": "Ninetales",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 39,
+    "Nombre": "Jigglypuff",
+    "Tipo": "Normal",
+    "SubTipo": "Hada"
+  },
+  {
+    "IdPokemon": 40,
+    "Nombre": "Wigglytuff",
+    "Tipo": "Normal",
+    "SubTipo": "Hada"
+  },
+  {
+    "IdPokemon": 41,
+    "Nombre": "Zubat",
+    "Tipo": "Veneno",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 42,
+    "Nombre": "Golbat",
+    "Tipo": "Veneno",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 43,
+    "Nombre": "Oddish",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 44,
+    "Nombre": "Gloom",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 45,
+    "Nombre": "Vileplume",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 46,
+    "Nombre": "Paras",
+    "Tipo": "Bicho",
+    "SubTipo": "Planta"
+  },
+  {
+    "IdPokemon": 47,
+    "Nombre": "Parasect",
+    "Tipo": "Bicho",
+    "SubTipo": "Planta"
+  },
+  {
+    "IdPokemon": 47,
+    "Nombre": "Venonat",
+    "Tipo": "Bicho",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 49,
+    "Nombre": "Venomoth",
+    "Tipo": "Bicho",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 50,
+    "Nombre": "Diglett",
+    "Tipo": "Tierra",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 51,
+    "Nombre": "Dugtrio",
+    "Tipo": "Tierra",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 52,
+    "Nombre": "Meowth",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 53,
+    "Nombre": "Persian",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 54,
+    "Nombre": "Psyduck",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 55,
+    "Nombre": "Golduck",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 56,
+    "Nombre": "Mankey",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 57,
+    "Nombre": "Primeape",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 58,
+    "Nombre": "Growlithe",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 59,
+    "Nombre": "Arcanine",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 60,
+    "Nombre": "Poliwag",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 61,
+    "Nombre": "Poliwhirl",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 62,
+    "Nombre": "Poliwrath",
+    "Tipo": "Agua",
+    "SubTipo": "Lucha"
+  },
+  {
+    "IdPokemon": 63,
+    "Nombre": "Abra",
+    "Tipo": "Psiquico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 64,
+    "Nombre": "Kadabra",
+    "Tipo": "Psiquico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 65,
+    "Nombre": "Alakazam",
+    "Tipo": "Psiquico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 66,
+    "Nombre": "Machop",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 67,
+    "Nombre": "Machoke",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 68,
+    "Nombre": "Machamp",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 69,
+    "Nombre": "Bellsprout",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 70,
+    "Nombre": "Weepinbell",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 71,
+    "Nombre": "Victreebel",
+    "Tipo": "Planta",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 72,
+    "Nombre": "Tentacool",
+    "Tipo": "Agua",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 73,
+    "Nombre": "Tentacruel",
+    "Tipo": "Agua",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 74,
+    "Nombre": "Geodude",
+    "Tipo": "Roca",
+    "SubTipo": "Tierra"
+  },
+  {
+    "IdPokemon": 75,
+    "Nombre": "Graveler",
+    "Tipo": "Roca",
+    "SubTipo": "Tierra"
+  },
+  {
+    "IdPokemon": 76,
+    "Nombre": "Golem",
+    "Tipo": "Roca",
+    "SubTipo": "Tierra"
+  },
+  {
+    "IdPokemon": 77,
+    "Nombre": "Ponyta",
+    "Tipo": "Fuego",
+    "SubTipo": "Normal"
+  },
+  {
+    "IdPokemon": 78,
+    "Nombre": "Rapidash",
+    "Tipo": "Fuego",
+    "SubTipo": "Normal"
+  },
+  {
+    "IdPokemon": 79,
+    "Nombre": "Slowpoke",
+    "Tipo": "Agua",
+    "SubTipo": "Psiquico"
+  },
+  {
+    "IdPokemon": 80,
+    "Nombre": "Slowbro",
+    "Tipo": "Agua",
+    "SubTipo": "Psiquico"
+  },
+  {
+    "IdPokemon": 81,
+    "Nombre": "Magnemite",
+    "Tipo": "Electrico",
+    "SubTipo": "Acero"
+  },
+  {
+    "IdPokemon": 82,
+    "Nombre": "Magneton",
+    "Tipo": "Electrico",
+    "SubTipo": "Acero"
+  },
+  {
+    "IdPokemon": 83,
+    "Nombre": "Farfetch'd",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 84,
+    "Nombre": "Doduo",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 85,
+    "Nombre": "Dodrio",
+    "Tipo": "Normal",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 86,
+    "Nombre": "Seel",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 87,
+    "Nombre": "Dewgong",
+    "Tipo": "Agua",
+    "SubTipo": "Hielo"
+  },
+  {
+    "IdPokemon": 88,
+    "Nombre": "Grimer",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 89,
+    "Nombre": "Muk",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 90,
+    "Nombre": "Shellder",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 91,
+    "Nombre": "Cloyster",
+    "Tipo": "Agua",
+    "SubTipo": "Hielo"
+  },
+  {
+    "IdPokemon": 92,
+    "Nombre": "Gastly",
+    "Tipo": "Fantasma",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 93,
+    "Nombre": "Haunter",
+    "Tipo": "Fantasma",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 94,
+    "Nombre": "Gengar",
+    "Tipo": "Fantasma",
+    "SubTipo": "Veneno"
+  },
+  {
+    "IdPokemon": 95,
+    "Nombre": "Onix",
+    "Tipo": "Roca",
+    "SubTipo": "Tierra"
+  },
+  {
+    "IdPokemon": 96,
+    "Nombre": "Drowzee",
+    "Tipo": "Psiquico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 97,
+    "Nombre": "Hypno",
+    "Tipo": "Psiquico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 98,
+    "Nombre": "Krabby",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 99,
+    "Nombre": "Kingler",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 100,
+    "Nombre": "Voltorb",
+    "Tipo": "Electrico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 101,
+    "Nombre": "Electrode",
+    "Tipo": "Electrico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 102,
+    "Nombre": "Exeggcute",
+    "Tipo": "Planta",
+    "SubTipo": "Psiquico"
+  },
+  {
+    "IdPokemon": 103,
+    "Nombre": "Exeggutor",
+    "Tipo": "Planta",
+    "SubTipo": "Psiquico"
+  },
+  {
+    "IdPokemon": 104,
+    "Nombre": "Cubone",
+    "Tipo": "Tierra",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 105,
+    "Nombre": "Marowak",
+    "Tipo": "Tierra",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 106,
+    "Nombre": "Hitmonlee",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 107,
+    "Nombre": "Hitmonchan",
+    "Tipo": "Lucha",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 108,
+    "Nombre": "Lickitung",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 109,
+    "Nombre": "Koffing",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 110,
+    "Nombre": "Weezing",
+    "Tipo": "Veneno",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 111,
+    "Nombre": "Rhyhorn",
+    "Tipo": "Tierra",
+    "SubTipo": "Roca"
+  },
+  {
+    "IdPokemon": 112,
+    "Nombre": "Rhydon",
+    "Tipo": "Tierra",
+    "SubTipo": "Roca"
+  },
+  {
+    "IdPokemon": 113,
+    "Nombre": "Chansey",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 114,
+    "Nombre": "Tangela",
+    "Tipo": "Planta",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 115,
+    "Nombre": "Kangaskhan",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 116,
+    "Nombre": "Horsea",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 117,
+    "Nombre": "Seadra",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 118,
+    "Nombre": "Goldeen",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 119,
+    "Nombre": "Seaking",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 120,
+    "Nombre": "Staryu",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 121,
+    "Nombre": "Starmie",
+    "Tipo": "Agua",
+    "SubTipo": "Psiquico"
+  },
+  {
+    "IdPokemon": 122,
+    "Nombre": "Mr. Mime",
+    "Tipo": "Psiquico",
+    "SubTipo": "Hada"
+  },
+  {
+    "IdPokemon": 123,
+    "Nombre": "Scyther",
+    "Tipo": "Bicho",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 124,
+    "Nombre": "Jynx",
+    "Tipo": "Hielo",
+    "SubTipo": "Psiquico"
+  },
+  {
+    "IdPokemon": 125,
+    "Nombre": "Electabuzz",
+    "Tipo": "Electrico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 126,
+    "Nombre": "Magmar",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 127,
+    "Nombre": "Pinsir",
+    "Tipo": "Bicho",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 128,
+    "Nombre": "Tauros",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 129,
+    "Nombre": "Magikarp",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 130,
+    "Nombre": "Gyarados",
+    "Tipo": "Agua",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 131,
+    "Nombre": "Lapras",
+    "Tipo": "Agua",
+    "SubTipo": "Hielo"
+  },
+  {
+    "IdPokemon": 132,
+    "Nombre": "Ditto",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 133,
+    "Nombre": "Eevee",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 134,
+    "Nombre": "Vaporeon",
+    "Tipo": "Agua",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 135,
+    "Nombre": "Jolteon",
+    "Tipo": "Electrico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 136,
+    "Nombre": "Flareon",
+    "Tipo": "Fuego",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 137,
+    "Nombre": "Porygon",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 138,
+    "Nombre": "Omanyte",
+    "Tipo": "Roca",
+    "SubTipo": "Agua"
+  },
+  {
+    "IdPokemon": 139,
+    "Nombre": "Omastar",
+    "Tipo": "Roca",
+    "SubTipo": "Agua"
+  },
+  {
+    "IdPokemon": 140,
+    "Nombre": "Kabuto",
+    "Tipo": "Roca",
+    "SubTipo": "Agua"
+  },
+  {
+    "IdPokemon": 141,
+    "Nombre": "Kabutops",
+    "Tipo": "Roca",
+    "SubTipo": "Agua"
+  },
+  {
+    "IdPokemon": 142,
+    "Nombre": "Aerodactyl",
+    "Tipo": "Roca",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 143,
+    "Nombre": "Snorlax",
+    "Tipo": "Normal",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 144,
+    "Nombre": "Articuno",
+    "Tipo": "Hielo",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 145,
+    "Nombre": "Zapdos",
+    "Tipo": "Electrico",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 146,
+    "Nombre": "Moltres",
+    "Tipo": "Fuego",
+    "SubTipo": "Volador"
+  },
+  {
+    "IdPokemon": 147,
+    "Nombre": "Dratini",
+    "Tipo": "Dragon",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 148,
+    "Nombre": "Dragonair",
+    "Tipo": "Dragon",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 149,
+    "Nombre": "Dragonite",
+    "Tipo": "Dragon",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 150,
+    "Nombre": "Mewtwo",
+    "Tipo": "Psiquico",
+    "SubTipo": "Ninguno"
+  },
+  {
+    "IdPokemon": 151,
+    "Nombre": "Mew",
+    "Tipo": "Psiquico",
     "SubTipo": "Ninguno"
   }
 
