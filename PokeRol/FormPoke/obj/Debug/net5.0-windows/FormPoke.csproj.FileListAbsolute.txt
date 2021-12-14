@@ -90,7 +90,6 @@ C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke
 C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke.AssemblyInfoInputs.cache
 C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke.AssemblyInfo.cs
 C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke.csproj.CopyComplete
 C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke.dll
 C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\ref\FormPoke.dll
 C:\Users\Juan\Desktop\Pruebas\PokeRol\FormPoke\obj\Debug\net5.0-windows\FormPoke.pdb

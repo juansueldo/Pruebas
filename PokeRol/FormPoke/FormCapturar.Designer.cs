@@ -74,7 +74,7 @@ namespace FormPoke
             // 
             this.pbPokemon.Location = new System.Drawing.Point(635, 24);
             this.pbPokemon.Name = "pbPokemon";
-            this.pbPokemon.Size = new System.Drawing.Size(97, 108);
+            this.pbPokemon.Size = new System.Drawing.Size(142, 119);
             this.pbPokemon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbPokemon.TabIndex = 8;
             this.pbPokemon.TabStop = false;
